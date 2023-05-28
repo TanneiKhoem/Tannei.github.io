@@ -1,0 +1,27 @@
+.form form .box::placeholder {
+  color: var(--color--);
+  font-size: 0;
+}
+#wrap_page {
+  width: 1000px;
+  margin: 0 auto;
+  overflow: hidden;
+  background: #ccdbec;
+  padding: 30px;
+}
+#header {
+  text-align: center;
+}
+#menu ul li {
+  display: inline;
+  margin-left: 20px;
+  padding-left: 50px;
+}
+#Left {
+  width: 50%;
+  float: Left;
+}
+#right {
+  width: 50%;
+  float: right;
+}
